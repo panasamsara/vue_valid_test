@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+ssh://git@github.com:panasamsara/vue_valid_test.git"
   },
-  "keywords": [],
-  "author": "joshua",
-  "license": "ISC"
+  "keywords": ["vue", "validate"],
+  "author": {
+    "name": "joshua",
+    "email": "panasamsara@126.com",
+  },
+  "license": "MIT"
 }
